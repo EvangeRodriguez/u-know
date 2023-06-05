@@ -49,16 +49,16 @@ SELECT * FROM curso WHERE título = 'introducciona CSS'
 
 # Base de datos
 Proyecto en mySql: 
-.[proyecto_uknow.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_uknow.sql)
+[proyecto_uknow.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_uknow.sql)
 
 Para poder realizar nuestra base de datos usamos como "modelo" el siguiente excel: 
 [usuario.xlsx](https://github.com/EvangeRodriguez/u-know/files/11652258/usuario.xlsx)
 
 # Fichero de dump de la base de datos
-.[proyecto_definitivo_comentario.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_comentario.sql)
-.[proyecto_definitivo_curso.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_curso.sql)
-.[proyecto_definitivo_dificultad.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_dificultad.sql)
-.[proyecto_definitivo_puntuacion.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_puntuacion.sql)
-.[proyecto_definitivo_temática.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_temática.sql)
-.[proyecto_definitivo_usuario.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_usuario.sql)
-.[proyecto_definitivo_usuario_estado_curso.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_usuario_estado_curso.sql)
+[proyecto_definitivo_comentario.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_comentario.sql)
+[proyecto_definitivo_curso.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_curso.sql)
+[proyecto_definitivo_dificultad.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_dificultad.sql)
+[proyecto_definitivo_puntuacion.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_puntuacion.sql)
+[proyecto_definitivo_temática.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_temática.sql)
+[proyecto_definitivo_usuario.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_usuario.sql)
+[proyecto_definitivo_usuario_estado_curso.sql] (https://github.com/EvangeRodriguez/u-know/files/11652258/proyecto_definitivo_usuario_estado_curso.sql)
