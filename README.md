@@ -15,5 +15,37 @@ Esta base de datos cuenta las siguientes relaciones:
 # Diseño de base de datos
 ![uknow](https://github.com/EvangeRodriguez/u-know/assets/131253299/a50e3d89-e6f7-492a-8a4b-f121b1ac6232)
 
+# Modelos de consultas 
+-- Ver datos de curso: 
+SELECT * FROM curso;
+
+-- Ver datos de dificultad: 
+SELECT * FROM dificultad;
+
+-- Ver datos de estado:  
+ SELECT * FROM estado;
+
+-- Ver datos de temática:  
+SELECT * FROM temática;
+
+-- Ver datos de usuario:  
+ SELECT * FROM usuario;
+
+
+-- Buscar el usuario con el id 45
+ SELECT * FROM usuario WHERE id_usuario = 45 ; 
+
+-- Buscar todos los cursos con temática 3 (alta)
+ SELECT * FROM curso WHERE temática = 3; 
+
+-- Buscar el curso que está haciendo el id 5
+SELECT * FROM curso WHERE autor = 5
+
+-- Buscar cursos de dificultad 2 (media)
+SELECT * FROM curso WHERE dificultad = 2
+
+-- Buscar cursos llamados "introducción a CSS"
+ SELECT * FROM curso WHERE título = 'introducciona CSS'
+
 # Base de datos
 [usuario.xlsx](https://github.com/EvangeRodriguez/u-know/files/11652258/usuario.xlsx)
