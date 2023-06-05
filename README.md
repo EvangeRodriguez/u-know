@@ -53,14 +53,22 @@ SELECT * FROM curso WHERE título = 'introducciona CSS'
 
 # Base de datos
 Proyecto en mySql: proyecto_uknow.sql
+
 Para poder realizar nuestra base de datos usamos como "modelo" el siguiente excel: 
 [usuario.xlsx](https://github.com/EvangeRodriguez/u-know/files/11652258/usuario.xlsx)
 
 # Fichero de dump de la base de datos
+
 Comentarios: proyecto_definitivo_comentario.sql
+
 Curso: proyecto_definitivo_curso.sql 
+
 Dificultad: proyecto_definitivo_dificultad.sql 
+
 Puntuación: proyecto_definitivo_puntuacion.sql 
+
 Temático: proyecto_definitivo_temática.sql 
+
 Usuario: proyecto_definitivo_usuario.sql 
+
 Relación usuario/estado/curso: proyecto_definitivo_usuario_estado_curso.sql 
