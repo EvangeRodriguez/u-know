@@ -32,19 +32,19 @@ SELECT * FROM temática;
  SELECT * FROM usuario;
 
 
--- Buscar el usuario con el id 45
+-- Buscar el usuario con el id 45:
 SELECT * FROM usuario WHERE id_usuario = 45 ; 
 
--- Buscar todos los cursos con temática 3 (alta)
+-- Buscar todos los cursos con temática 3 (alta):
 SELECT * FROM curso WHERE temática = 3; 
 
--- Buscar el curso que está haciendo el id 5
+-- Buscar el curso que está haciendo el id 5:
 SELECT * FROM curso WHERE autor = 5
 
--- Buscar cursos de dificultad 2 (media)
+-- Buscar cursos de dificultad 2 (media):
 SELECT * FROM curso WHERE dificultad = 2
 
--- Buscar cursos llamados "introducción a CSS"
+-- Buscar cursos llamados "introducción a CSS":
 SELECT * FROM curso WHERE título = 'introducciona CSS'
 
 # Base de datos
