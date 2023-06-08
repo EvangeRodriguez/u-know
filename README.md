@@ -60,7 +60,9 @@ Para poder realizar nuestra base de datos usamos como "modelo" el siguiente exce
 # Fichero de dump de la base de datos
 # Presentaciones
 Canva: https://www.canva.com/design/DAFk9Hb0xzA/juj5MEQs6xlxUrjAldGsFg/edit?utm_content=DAFk9Hb0xzA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Archivo tutorial propio: https://docs.google.com/document/d/1VLOYmZOm8QPZzfUWbqSuuBoG2bi5OkIM_5NaTzYoMro/edit?usp=sharing
+
 Paso a paso: https://www.canva.com/design/DAFkj5pUWh0/IPvrfWJbopavAulaIOQwLA/edit?utm_content=DAFkj5pUWh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
